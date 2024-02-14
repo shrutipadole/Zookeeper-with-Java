@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Naming_variables-Converting_variable_names_from_snake_case_to_camelCase" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Naming variables/Converting variable names from snake_case to camelCase" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Zookeeper with Java" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Naming variables/Converting variable names from snake_case to camelCase">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Naming variables/Converting variable names from snake_case to camelCase/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Naming variables/Converting variable names from snake_case to camelCase/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Naming variables/Converting variable names from snake_case to camelCase/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,8 @@
+content:
+  - Theory
+  - Initializing inventory count and item price variables
+  - Converting variable names from snake_case to camelCase
+  - The best name for a variable
+  - Unicode or not
+  - Fix invalid variable name
+  - Determine whether the name is valid

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Array/Allocation memory" />
+            <option value="$PROJECT_DIR$/Topics/Array/Declarations" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializations" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializing and using first element of array" />
+            <option value="$PROJECT_DIR$/Topics/Array/Sum of even-indexed elements in sequential array" />
+            <option value="$PROJECT_DIR$/Topics/Array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Abs method" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Byte to string conversion with multiplication" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Call me awesome" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Invoking Methods with Type Casting" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Method invocation" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Product and rounded average of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Alice and Bob" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/All in one" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Comparing two integers from user input" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Existing operators" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determining range of an integer  low, mid or high" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determining whether a number is positive, negative, or zero" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Symmetrical number" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Correctly overridden methods" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Filling blanks in class hierarchy code" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Implementing animal sounds through class inheritance" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Overriding rules" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Shapes area" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Which methods will be overridden" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Converting variable names from snake_case to camelCase" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Determine whether the name is valid" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Initializing inventory count and item price variables" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/The best name for a variable" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Calculate the number of distinct characters" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Join" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Ordering the execution of threads" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Sleep" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/VeganPizza" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Powers of two" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Statements" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/The sequence" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/Zookeeper with Java/task" />
+            <option value="$PROJECT_DIR$/Zookeeper with Java/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Zookeeper with Java/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Zookeeper with Java/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Zookeeper with Java/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Zookeeper with Java/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Zookeeper with Java/task/build/tmp" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
